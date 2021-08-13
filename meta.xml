@@ -1,0 +1,11 @@
+<meta>
+    <download_priority_group>999</download_priority_group>
+    <oop>true</oop>
+    <min_mta_version client="1.5.7-9.20157" server="1.3.0-9.04570" />
+    <script src="libs/classlib.lua" type="client" cache="false" />
+
+    <script src="client.lua" type="client" cache="false" />
+    <script src="utils/smooth.lua" type="client" cache="false" />
+    <script src="utils/distance.lua" type="client" cache="false" />
+    <script src="parts/trailer.lua" type="client" cache="false" />
+</meta>
